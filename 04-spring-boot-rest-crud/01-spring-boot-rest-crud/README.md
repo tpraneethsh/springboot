@@ -25,4 +25,4 @@ This example helps to understand to
 - Global Exception Handling
   - Create new @ControllerAdvice
   - Refactor REST service .... remove exception handling code
-  - Add exception handling code to @ControllerAdvice
+  - Add exception handling code to @ControllerAdvice[README.md](..%2F..%2FREADME.md)
